@@ -24,7 +24,7 @@ This project implements a chatbot that uses a Retrieval-Augmented Generation (RA
 
 ## Installation
 Clone the repository:
-git clone <repository-url>
+git clone https://github.com/DarshanG12/RAG_BASED_CHATBOT.git
 
 ## Install dependencies:
 ```
@@ -32,9 +32,9 @@ pip install -r requirements.txt
 ```
 
 Run app.py to start the chatbot.
-'''
+```
 python app.py
-'''
+```
 
 - Interact with the chatbot by asking questions. The chatbot will respond based on the available context.
 - If the response exceeds the token limit, a prompt will guide the user to ask a more focused question.
